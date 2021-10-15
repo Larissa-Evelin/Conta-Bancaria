@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
+using course.Entities;
 
 
 namespace course
@@ -9,17 +10,15 @@ namespace course
     {
         static void Main(string[] args)
         {
-            DateTime d1 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local);
+            Account acc1 = new Account(1001, "Alex", 500.0);
+            Account acc2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
 
-            DateTime d2 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Utc);
+            acc1.Withdraw(10.0);
+            acc2.Withdraw(10.0);
 
-            DateTime d3 = new DateTime(2000, 8, 15, 13, 5, 58);
-
-            Console.WriteLine(d1);
-            Console.WriteLine(d2);
-            Console.WriteLine(d3);
-
-
+            Console.WriteLine(acc1.Balance);
+            Console.WriteLine(acc2.Balance);
+            
 
         }
    

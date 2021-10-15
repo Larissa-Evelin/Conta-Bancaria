@@ -1,0 +1,14 @@
+C:\Users\Adapter\source\repos\course\course\bin\Debug\netcoreapp3.1\course.exe
+C:\Users\Adapter\source\repos\course\course\bin\Debug\netcoreapp3.1\course.deps.json
+C:\Users\Adapter\source\repos\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.json
+C:\Users\Adapter\source\repos\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.dev.json
+C:\Users\Adapter\source\repos\course\course\bin\Debug\netcoreapp3.1\course.dll
+C:\Users\Adapter\source\repos\course\course\bin\Debug\netcoreapp3.1\course.pdb
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfoInputs.cache
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfo.cs
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.csproj.CoreCompileInputs.cache
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.dll
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.pdb
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.genruntimeconfig.cache
+C:\Users\Adapter\source\repos\course\course\obj\Debug\netcoreapp3.1\course.csproj.AssemblyReference.cache
